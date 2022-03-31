@@ -1,0 +1,16 @@
+[
+{
+  "modid": "obamanet",
+  "name": "Wurst+4",
+  "description": "E",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["popbob", "Itristan", "Fitmc", "hazmester"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
